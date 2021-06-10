@@ -14,7 +14,8 @@ React实战例子
 1. 修复布局不能自适应屏幕
 2. 给字体设置酷炫特效
 3. 效果展示
-https://user-images.githubusercontent.com/31495311/121455216-a9917a80-c9d6-11eb-8ab0-b63f05faf730.mp4
+![Uploading ezgif-6-fa500fa41907.gif…]()
+
 
 
 
