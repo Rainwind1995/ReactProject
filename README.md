@@ -10,4 +10,12 @@ React实战例子
 # 运行截图
 ![ezgif-6-dca2c4d96d6d](https://user-images.githubusercontent.com/31495311/121135139-c9a22c00-c866-11eb-8aef-a44a3ef6c83e.gif)
 
+# 2021/6/10 完善相关功能
+1. 修复布局不能自适应屏幕
+2. 给字体设置酷炫特效
+3. 效果展示
+https://user-images.githubusercontent.com/31495311/121455216-a9917a80-c9d6-11eb-8ab0-b63f05faf730.mp4
+
+
+
 
