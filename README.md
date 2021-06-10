@@ -13,8 +13,9 @@ React实战例子
 # 2021/6/10 完善相关功能
 1. 修复布局不能自适应屏幕
 2. 给字体设置酷炫特效
-3. 效果展示
-![Uploading ezgif-6-fa500fa41907.gif…]()
+# 效果展示
+![ezgif-6-fa500fa41907](https://user-images.githubusercontent.com/31495311/121455428-09882100-c9d7-11eb-9286-ec5959d450e5.gif)
+
 
 
 
