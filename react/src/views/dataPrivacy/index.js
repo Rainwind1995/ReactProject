@@ -2,17 +2,16 @@ import React from 'react';
 import 'antd/dist/antd.css';
 import { Layout, Menu, Breadcrumb } from 'antd';
 import {Link} from "react-router-dom";
+
+import '../../views/home/home.css'
 const { Header, Content, Footer } = Layout;
 
 
 function DataPrivacy() {
     return (
-        <Layout className="layout" style={{height:700}}>
-            <Header>
-                <div className="logo" />
-                <Menu theme="dark" mode="horizontal" >
-                    人工智能安全平台
-                </Menu>
+        <Layout className='head_Top'>
+            <Header className='font_Style'>
+                <p  >人工智能安全平台</p>
             </Header>
 
             <Content style={{ padding: '0 50px' }}>
